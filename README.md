@@ -61,6 +61,7 @@ Download the lightweight Phi language model using Ollama:
 ```bash
 ollama pull phi
 ```
+
 ## 3️⃣ Create Virtual Environment (Optional)
 
 It is recommended to use a virtual environment for dependency management.
@@ -69,6 +70,7 @@ It is recommended to use a virtual environment for dependency management.
 python -m venv venv
 venv\Scripts\activate
 ```
+
 ## 4️⃣ Install Dependencies
 
 Install the required Python packages:
